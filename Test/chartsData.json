@@ -1,0 +1,307 @@
+
+{
+    "4": {
+        "Push": {
+            "CO": {
+                "10BB": "32.8%, 22+ Ax+ K5s+ KTo+ Q8s+ QTo+ J8s+ JTo T7s+ 97s+ 86s+ 76s ",
+                "9BB": "34.2%, 22+ Ax+ K4s+ K9o+ Q8s+ QTo+ J8s+ JTo T7s+ 97s+ 86s+ 76s 65s ",
+                "8BB": "35.4%, 22+ Ax+ K3s+ K9o+ Q6s+ QTo+ J7s+ JTo T7s+ 97s+ 86s+ 76s 65s ",
+                "7BB": "38.5%, 22+ Ax+ K2s+ K7o+ Q6s+ Q9o+ J7s+ JTo T7s+ 97s+ 86s+ 76s 65s ",
+                "6BB": "40.3%, 22+ Ax+ K2s+ K6o+ Q5s+ Q9o+ J7s+ J9o+ T7s+ 97s+ 87s 76s ",
+                "5BB": "43.0%, 22+ Ax+ K2s+ K5o+ Q4s+ Q8o+ J7s+ J9o+ T7s+ T9o 97s+ 87s 76s ",
+                "4BB": "44.8%, 22+ Ax+ K2s+ K5o+ Q3s+ Q8o+ J6s+ J8o+ T6s+ T9o 97s+ 87s 76s ",
+                "3BB": "53.2%, 22+ Ax+ K2s+ K3o+ Q2s+ Q6o+ J3s+ J7o+ T6s+ T8o+ 96s+ 98o 86s+ 76s 65s ",
+                "2BB": "74.4%, 22+ Qx+ J2s+ J3o+ T2s+ T6o+ 92s+ 96o+ 84s+ 86o+ 73s+ 76o 63s+ 65o 53s+ 43s ",
+                "1BB": "94.6%, 22+ 9x+ 82s+ 83o+ 72s+ 73o+ 62s+ 63o+ 52s+ 53o+ 42s+ 43o 32s "
+            },
+            "BU": {
+                "10BB": "41.3%, 22+ Ax+ K2s+ K7o+ Q5s+ Q9o+ J7s+ J9o+ T7s+ T9o 96s+ 86s+ 75s+ 65s 54s ",
+                "9BB": "43.9%, 22+ Ax+ K2s+ K5o+ Q4s+ Q9o+ J7s+ J9o+ T6s+ T9o 96s+ 86s+ 75s+ 65s 54s ",
+                "8BB": "45.8%, 22+ Ax+ K2s+ K4o+ Q3s+ Q8o+ J7s+ J9o+ T7s+ T9o 96s+ 86s+ 75s+ 65s 54s ",
+                "7BB": "47.2%, 22+ Ax+ K2s+ K3o+ Q3s+ Q8o+ J6s+ J9o+ T6s+ T9o 96s+ 86s+ 75s+ 65s 54s ",
+                "6BB": "50.0%, 22+ Kx+ Q2s+ Q7o+ J5s+ J8o+ T6s+ T9o 96s+ 86s+ 76s 65s ",
+                "5BB": "51.4%, 22+ Kx+ Q2s+ Q6o+ J5s+ J8o+ T6s+ T8o+ 96s+ 86s+ 76s ",
+                "4BB": "54.4%, 22+ Kx+ Q2s+ Q5o+ J4s+ J7o+ T6s+ T8o+ 96s+ 98o 86s+ 76s ",
+                "3BB": "56.9%, 22+ Kx+ Q2s+ Q4o+ J3s+ J7o+ T5s+ T7o+ 96s+ 98o 86s+ 76s ",
+                "2BB": "64.4%, 22+ Kx+ Q2s+ Q3o+ J2s+ J5o+ T3s+ T6o+ 95s+ 97o+ 85s+ 87o 75s+ 65s ",
+                "1BB": "82.5%, 22+ Jx+ T2s+ T3o+ 92s+ 95o+ 82s+ 85o+ 73s+ 75o+ 63s+ 65o 52s+ 54o 43s "
+            },
+            "SB": {
+                "10BB": "67.7%, 22+ Qx+ J2s+ J7o+ T3s+ T7o+ 94s+ 97o+ 84s+ 86o+ 74s+ 76o 63s+ 65o 53s+ 43s ",
+                "9BB": "70.1%, 22+ Qx+ J2s+ J5o+ T2s+ T7o+ 93s+ 97o+ 84s+ 86o+ 74s+ 76o 63s+ 65o 53s+ 43s ",
+                "8BB": "72.0%, 22+ Qx+ J2s+ J5o+ T2s+ T6o+ 93s+ 96o+ 84s+ 86o+ 74s+ 76o 63s+ 65o 53s+ 43s ",
+                "7BB": "74.1%, 22+ Qx+ J2s+ J3o+ T2s+ T6o+ 93s+ 96o+ 84s+ 86o+ 73s+ 76o 63s+ 65o 53s+ 43s ",
+                "6BB": "76.2%, 22+ Jx+ T2s+ T5o+ 92s+ 96o+ 84s+ 86o+ 73s+ 76o 63s+ 65o 53s+ 43s ",
+                "5BB": "78.5%, 22+ Jx+ T2s+ T4o+ 92s+ 95o+ 84s+ 86o+ 73s+ 75o+ 63s+ 65o 53s+ 43s ",
+                "4BB": "81.9%, 22+ Tx+ 92s+ 95o+ 83s+ 85o+ 73s+ 75o+ 63s+ 65o 53s+ 43s ",
+                "3BB": "84.6%, 22+ Tx+ 92s+ 93o+ 82s+ 84o+ 73s+ 75o+ 63s+ 65o 53s+ ",
+                "2BB": "94.6%, 22+ 8x+ 72s+ 73o+ 62s+ 63o+ 52s+ 53o+ 42s+ 32s ",
+                "1BB": "100.0%, Any two"
+            }
+        },
+        "Call": {
+            "CO": {
+                "BU": {
+                    "10BB": "16.9%, 33+ A4s+ A8o+ KTs+ KJo+ QJs ",
+                    "9BB": "18.7%, 33+ A3s+ A7o+ K9s+ KJo+ QTs+ ",
+                    "8BB": "20.2%, 33+ A2s+ A7o+ K9s+ KTo+ QTs+ JTs ",
+                    "7BB": "23.2%, 33+ A2s+ A5o+ K8s+ KTo+ QTs+ QJo JTs ",
+                    "6BB": "27.1%, 22+ A2s+ A4o+ K7s+ K9o+ Q9s+ QTo+ J9s+ ",
+                    "5BB": "30.3%, 22+ A2s+ A3o+ K5s+ K9o+ Q8s+ QTo+ J9s+ JTo T9s ",
+                    "4BB": "36.9%, 22+ Ax+ K3s+ K8o+ Q6s+ Q9o+ J8s+ J9o+ T7s+ 97s+ 87s ",
+                    "3BB": "49.6%, 22+ Ax+ K2s+ K4o+ Q2s+ Q8o+ J5s+ J8o+ T6s+ T8o+ 96s+ 98o 86s+ 75s+ 65s 54s ",
+                    "2BB": "78.0%, 22+ Qx+ J2s+ J3o+ T2s+ T5o+ 92s+ 96o+ 82s+ 85o+ 73s+ 75o+ 63s+ 65o 52s+ 43s ",
+                    "1BB": "95.5%, 22+ 8x+ 72s+ 73o+ 62s+ 63o+ 52s+ 53o+ 42s+ 43o 32s "
+                },
+                "SB": {
+                    "10BB": "20.1%, 22+ A2s+ A7o+ K9s+ KTo+ QTs+ ",
+                    "9BB": "22.5%, 22+ A2s+ A5o+ K9s+ KTo+ QTs+ JTs ",
+                    "8BB": "24.4%, 22+ A2s+ A4o+ K9s+ KTo+ QTs+ QJo JTs ",
+                    "7BB": "27.6%, 22+ A2s+ A3o+ K7s+ KTo+ Q9s+ QTo+ J9s+ T9s ",
+                    "6BB": "31.2%, 22+ Ax+ K5s+ K9o+ Q8s+ QTo+ J9s+ JTo T9s ",
+                    "5BB": "35.1%, 22+ Ax+ K3s+ K8o+ Q7s+ Q9o+ J8s+ JTo T8s+ 98s 87s ",
+                    "4BB": "41.8%, 22+ Ax+ K2s+ K6o+ Q4s+ Q9o+ J7s+ J9o+ T7s+ T9o 97s+ 86s+ 76s 65s ",
+                    "3BB": "51.5%, 22+ Ax+ K2s+ K4o+ Q2s+ Q7o+ J4s+ J8o+ T6s+ T8o+ 96s+ 98o 85s+ 75s+ 64s+ 54s ",
+                    "2BB": "72.9%, 22+ Kx+ Q2s+ Q3o+ J2s+ J5o+ T2s+ T6o+ 92s+ 96o+ 84s+ 86o+ 73s+ 75o+ 63s+ 65o 52s+ 43s ",
+                    "1BB": "96.4%, 22+ 8x+ 72s+ 73o+ 62s+ 63o+ 5x+ 42s+ 43o 32s "
+                },
+                "BB": {
+                    "10BB": "26.1%, 22+ A2s+ A3o+ K7s+ KTo+ Q9s+ QJo JTs ",
+                    "9BB": "29.2%, 22+ Ax+ K6s+ KTo+ Q9s+ QTo+ J9s+ T9s ",
+                    "8BB": "31.2%, 22+ Ax+ K5s+ K9o+ Q8s+ QTo+ J9s+ JTo T9s ",
+                    "7BB": "34.8%, 22+ Ax+ K3s+ K7o+ Q7s+ QTo+ J8s+ JTo T8s+ 98s ",
+                    "6BB": "41.8%, 22+ Ax+ K2s+ K5o+ Q5s+ Q9o+ J7s+ J9o+ T7s+ T9o 97s+ 87s 76s ",
+                    "5BB": "52.6%, 22+ Kx+ Q2s+ Q7o+ J4s+ J8o+ T6s+ T8o+ 96s+ 98o 85s+ 75s+ 65s 54s ",
+                    "4BB": "67.7%, 22+ Kx+ Q2s+ Q3o+ J2s+ J7o+ T2s+ T7o+ 93s+ 97o+ 84s+ 86o+ 74s+ 76o 63s+ 65o 52s+ 43s ",
+                    "3BB": "91.0%, 22+ Tx+ 92s+ 94o+ 82s+ 84o+ 72s+ 74o+ 62s+ 63o+ 52s+ 53o+ 42s+ 43o 32s ",
+                    "2BB": "100.0%, Any two",
+                    "1BB": "100.0%, Any two"
+                }
+            },
+            "BU": {
+                "SB": {
+                    "10BB": "25.9%, 22+ A2s+ A3o+ K7s+ KTo+ Q9s+ QJo JTs ",
+                    "9BB": "28.8%, 22+ Ax+ K7s+ K9o+ Q9s+ QTo+ JTs ",
+                    "8BB": "30.0%, 22+ Ax+ K5s+ K9o+ Q9s+ QTo+ J9s+ T9s ",
+                    "7BB": "32.4%, 22+ Ax+ K4s+ K8o+ Q8s+ QTo+ J9s+ JTo T9s ",
+                    "6BB": "35.7%, 22+ Ax+ K2s+ K7o+ Q8s+ Q9o+ J8s+ JTo T8s+ 98s ",
+                    "5BB": "40.6%, 22+ Ax+ K2s+ K6o+ Q5s+ Q9o+ J7s+ J9o+ T7s+ T9o 97s+ 87s 76s ",
+                    "4BB": "45.7%, 22+ Ax+ K2s+ K4o+ Q3s+ Q8o+ J6s+ J9o+ T7s+ T9o 96s+ 86s+ 76s 65s 54s ",
+                    "3BB": "57.5%, 22+ Kx+ Q2s+ Q6o+ J2s+ J7o+ T4s+ T8o+ 95s+ 98o 85s+ 87o 75s+ 64s+ 54s ",
+                    "2BB": "72.9%, 22+ Kx+ Q2s+ Q3o+ J2s+ J5o+ T2s+ T6o+ 92s+ 96o+ 84s+ 86o+ 73s+ 75o+ 63s+ 65o 52s+ 43s ",
+                    "1BB": "95.5%, 22+ 9x+ 82s+ 83o+ 72s+ 73o+ 62s+ 63o+ 5x+ 42s+ 43o 32s "
+                },
+                "BB": {
+                    "10BB": "32.4%, 22+ Ax+ K4s+ K8o+ Q8s+ QTo+ J9s+ JTo T9s ",
+                    "9BB": "34.4%, 22+ Ax+ K3s+ K7o+ Q8s+ Q9o+ J9s+ JTo T9s ",
+                    "8BB": "37.3%, 22+ Ax+ K2s+ K6o+ Q6s+ Q9o+ J8s+ JTo T8s+ 98s ",
+                    "7BB": "43.1%, 22+ Ax+ K2s+ K4o+ Q5s+ Q8o+ J7s+ J9o+ T7s+ T9o 97s+ 87s ",
+                    "6BB": "49.0%, 22+ Kx+ Q2s+ Q8o+ J5s+ J8o+ T6s+ T9o 96s+ 86s+ 76s 65s ",
+                    "5BB": "58.7%, 22+ Kx+ Q2s+ Q4o+ J3s+ J7o+ T5s+ T8o+ 95s+ 98o 85s+ 87o 75s+ 64s+ 54s ",
+                    "4BB": "75.6%, 22+ Qx+ J2s+ J4o+ T2s+ T6o+ 92s+ 96o+ 84s+ 86o+ 73s+ 75o+ 63s+ 65o 52s+ 54o 43s ",
+                    "3BB": "93.7%, 22+ Tx+ 92s+ 93o+ 82s+ 84o+ 72s+ 73o+ 62s+ 63o+ 5x+ 42s+ 43o 32s ",
+                    "2BB": "100.0%, Any two",
+                    "1BB": "100.0%, Any two"
+                }
+            },
+            "SB": {
+                "BB": {
+                    "10BB": "48.1%, 22+ Kx+ Q2s+ Q6o+ J7s+ J8o+ T7s+ T9o 98s ",
+                    "9BB": "50.8%, 22+ Kx+ Q2s+ Q5o+ J5s+ J8o+ T7s+ T8o+ 97s+ ",
+                    "8BB": "55.0%, 22+ Kx+ Q2s+ Q3o+ J4s+ J7o+ T6s+ T8o+ 97s+ 98o 87s ",
+                    "7BB": "59.3%, 22+ Qx+ J2s+ J6o+ T6s+ T7o+ 96s+ 98o 86s+ ",
+                    "6BB": "64.5%, 22+ Qx+ J2s+ J4o+ T3s+ T7o+ 95s+ 97o+ 86s+ 87o 76s ",
+                    "5BB": "72.5%, 22+ Jx+ T2s+ T5o+ 93s+ 96o+ 84s+ 86o+ 75s+ 64s+ 54s ",
+                    "4BB": "82.2%, 22+ Tx+ 92s+ 95o+ 82s+ 85o+ 73s+ 75o+ 63s+ 65o 53s+ 43s ",
+                    "3BB": "95.5%, 22+ 8x+ 72s+ 73o+ 62s+ 63o+ 52s+ 53o+ 42s+ 43o 32s ",
+                    "2BB": "100.0%, Any two",
+                    "1BB": "100.0%, Any two"
+                }
+            }
+        },
+        "OverCall": {
+            "CO": {
+                "BU": {
+                    "SB": {
+                        "10BB": "12.4%, 55+ A9s+ ATo+ KTs+ KQo QTs+ JTs ",
+                        "9BB": "13.1%, 44+ A9s+ ATo+ KTs+ KQo QTs+ JTs T9s ",
+                        "8BB": "13.7%, 44+ A8s+ ATo+ KTs+ KQo QTs+ J9s+ T9s ",
+                        "7BB": "16.0%, 44+ A7s+ ATo+ K9s+ KJo+ Q9s+ J9s+ T9s 98s ",
+                        "6BB": "22.0%, 33+ A4s+ A8o+ K9s+ KTo+ Q9s+ QJo J8s+ T8s+ 98s 87s 76s ",
+                        "5BB": "28.6%, 22+ A2s+ A7o+ K6s+ KTo+ Q8s+ QTo+ J8s+ JTo T7s+ 97s+ 86s+ 76s 65s 54s ",
+                        "4BB": "38.2%, 22+ A2s+ A4o+ K4s+ K9o+ Q5s+ Q9o+ J7s+ J9o+ T6s+ T9o 96s+ 85s+ 75s+ 64s+ 54s ",
+                        "3BB": "54.4%, 22+ Ax+ K2s+ K6o+ Q2s+ Q8o+ J3s+ J8o+ T4s+ T8o+ 95s+ 98o 84s+ 87o 74s+ 76o 63s+ 65o 52s+ 43s ",
+                        "2BB": "80.1%, 22+ Qx+ J2s+ J5o+ T2s+ T6o+ 92s+ 96o+ 82s+ 85o+ 72s+ 74o+ 62s+ 64o+ 52s+ 53o+ 42s+ 32s ",
+                        "1BB": "100.0%, Any two"
+                    },
+                    "BB": {
+                        "10BB": "13.1%, 44+ A9s+ ATo+ KTs+ KQo QTs+ JTs T9s ",
+                        "9BB": "15.5%, 44+ A8s+ ATo+ K9s+ KJo+ Q9s+ J9s+ T9s 98s ",
+                        "8BB": "18.1%, 33+ A7s+ ATo+ K9s+ KJo+ Q9s+ QJo J9s+ T8s+ 98s 87s 76s ",
+                        "7BB": "24.1%, 33+ A4s+ A9o+ K9s+ KTo+ Q8s+ QTo+ J8s+ JTo T8s+ 97s+ 86s+ 76s 65s ",
+                        "6BB": "31.2%, 22+ A2s+ A7o+ K6s+ KTo+ Q6s+ QTo+ J7s+ JTo T7s+ T9o 96s+ 86s+ 75s+ 64s+ 54s ",
+                        "5BB": "43.0%, 22+ A2s+ A4o+ K3s+ K9o+ Q4s+ Q9o+ J5s+ J9o+ T6s+ T8o+ 96s+ 98o 85s+ 87o 74s+ 64s+ 53s+ 43s ",
+                        "4BB": "59.6%, 22+ Ax+ K2s+ K6o+ Q2s+ Q8o+ J2s+ J8o+ T3s+ T7o+ 94s+ 97o+ 84s+ 86o+ 73s+ 76o 63s+ 65o 52s+ 54o 42s+ ",
+                        "3BB": "80.1%, 22+ Kx+ Q2s+ Q3o+ J2s+ J5o+ T2s+ T6o+ 92s+ 96o+ 82s+ 85o+ 72s+ 74o+ 62s+ 64o+ 52s+ 53o+ 42s+ 43o 32s ",
+                        "2BB": "100.0%, Any two",
+                        "1BB": "100.0%, Any two"
+                    }
+                },
+                "SB": {
+                    "BB": {
+                        "10BB": "14.7%, 44+ A8s+ ATo+ KTs+ KJo+ QTs+ J9s+ T9s ",
+                        "9BB": "17.8%, 33+ A7s+ ATo+ K9s+ KJo+ Q9s+ QJo J9s+ T8s+ 98s 87s ",
+                        "8BB": "21.1%, 33+ A5s+ A9o+ K9s+ KTo+ Q9s+ QJo J8s+ T8s+ 97s+ 87s 76s ",
+                        "7BB": "26.7%, 22+ A3s+ A8o+ K6s+ KTo+ Q8s+ QTo+ J8s+ JTo T8s+ 97s+ 86s+ 76s 65s ",
+                        "6BB": "32.1%, 22+ A2s+ A7o+ A5o K5s+ K9o+ Q6s+ QTo+ J7s+ JTo T7s+ 96s+ 86s+ 75s+ 65s 54s ",
+                        "5BB": "40.3%, 22+ A2s+ A3o+ K3s+ K9o+ Q4s+ Q9o+ J6s+ J9o+ T6s+ T9o 96s+ 85s+ 75s+ 64s+ 53s+ ",
+                        "4BB": "54.8%, 22+ Ax+ K2s+ K6o+ Q2s+ Q8o+ J2s+ J8o+ T4s+ T8o+ 95s+ 98o 84s+ 87o 74s+ 76o 63s+ 65o 52s+ 43s ",
+                        "3BB": "76.5%, 22+ Kx+ Q2s+ Q4o+ J2s+ J6o+ T2s+ T6o+ 92s+ 96o+ 82s+ 85o+ 72s+ 75o+ 62s+ 64o+ 52s+ 53o+ 42s+ 32s ",
+                        "2BB": "99.1%, 22+ 8x+ 72s+ 73o+ 3x+ ",
+                        "1BB": "100.0%, Any two"
+                    }
+                }
+            },
+            "BU":{
+                "SB": {
+                    "BB": {
+                        "10BB": "19.6%, 33+ A5s+ A9o+ K9s+ KTo+ Q9s+ QJo J9s+ T9s 98s ",
+                        "9BB": "22.3%, 33+ A3s+ A8o+ K9s+ KTo+ Q9s+ QJo J8s+ T8s+ 98s 87s 76s ",
+                        "8BB": "27.0%, 22+ A2s+ A7o+ K7s+ KTo+ Q8s+ QTo+ J8s+ JTo T8s+ 97s+ 87s 76s ",
+                        "7BB": "30.9%, 22+ A2s+ A5o+ K6s+ K9o+ Q8s+ QTo+ J8s+ JTo T7s+ 97s+ 86s+ 76s 65s ",
+                        "6BB": "37.9%, 22+ A2s+ A3o+ K5s+ K9o+ Q6s+ Q9o+ J7s+ J9o+ T7s+ T9o 96s+ 86s+ 75s+ 64s+ 54s ",
+                        "5BB": "46.0%, 22+ Ax+ K2s+ K7o+ Q3s+ Q9o+ J5s+ J9o+ T6s+ T8o+ 96s+ 98o 85s+ 74s+ 64s+ 53s+ ",
+                        "4BB": "57.8%, 22+ Ax+ K2s+ K5o+ Q2s+ Q8o+ J2s+ J8o+ T3s+ T7o+ 95s+ 97o+ 84s+ 87o 74s+ 76o 63s+ 65o 52s+ 43s ",
+                        "3BB": "78.3%, 22+ Kx+ Q2s+ Q3o+ J2s+ J5o+ T2s+ T6o+ 92s+ 96o+ 82s+ 85o+ 72s+ 75o+ 62s+ 64o+ 52s+ 53o+ 42s+ 32s ",
+                        "2BB": "99.1%, 22+ 8x+ 72s+ 73o+ 3x+ ",
+                        "1BB": "100.0%, Any two"
+                    }
+                }
+            }
+        }
+    },
+    "3": {
+        "Push": {
+            "BU": {
+                "10BB": "39.4%, 22+ Ax+ K2s+ K8o+ Q5s+ Q9o+ J7s+ JTo T7s+ T9o 96s+ 86s+ 75s+ 65s ",
+                "9BB": "41.5%, 22+ Ax+ K2s+ K6o+ Q5s+ Q9o+ J7s+ JTo T7s+ T9o 96s+ 86s+ 75s+ 65s 54s ",
+                "8BB": "43.6%, 22+ Ax+ K2s+ K5o+ Q4s+ Q9o+ J7s+ J9o+ T7s+ T9o 96s+ 86s+ 75s+ 65s 54s ",
+                "7BB": "45.7%, 22+ Ax+ K2s+ K4o+ Q3s+ Q8o+ J7s+ J9o+ T7s+ T9o 96s+ 86s+ 75s+ 65s 54s ",
+                "6BB": "47.2%, 22+ Ax+ K2s+ K3o+ Q3s+ Q8o+ J6s+ J8o+ T7s+ T9o 96s+ 86s+ 76s 65s ",
+                "5BB": "49.2%, 22+ Kx+ Q2s+ Q7o+ J5s+ J8o+ T6s+ T9o 97s+ 87s 76s ",
+                "4BB": "50.8%, 22+ Kx+ Q2s+ Q6o+ J4s+ J8o+ T6s+ T8o+ 97s+ 87s ",
+                "3BB": "54.8%, 22+ Kx+ Q2s+ Q5o+ J3s+ J7o+ T6s+ T8o+ 96s+ 98o 86s+ 76s ",
+                "2BB": "60.5%, 22+ Kx+ Q2s+ Q4o+ J2s+ J7o+ T4s+ T7o+ 95s+ 97o+ 85s+ 87o 75s+ 65s ",
+                "1BB": "73.5%, 22+ Qx+ J2s+ J3o+ T2s+ T5o+ 92s+ 96o+ 84s+ 86o+ 74s+ 76o 64s+ 53s+ "
+            },
+            "SB": {
+                "10BB": "64.7%, 22+ Kx+ Q2s+ Q4o+ J2s+ J7o+ T3s+ T7o+ 95s+ 97o+ 84s+ 86o+ 74s+ 76o 63s+ 53s+ 43s ",
+                "9BB": "67.7%, 22+ Qx+ J2s+ J7o+ T3s+ T7o+ 94s+ 97o+ 84s+ 86o+ 74s+ 76o 63s+ 65o 53s+ 43s ",
+                "8BB": "70.1%, 22+ Qx+ J2s+ J5o+ T2s+ T7o+ 93s+ 97o+ 84s+ 86o+ 74s+ 76o 63s+ 65o 53s+ 43s ",
+                "7BB": "72.9%, 22+ Qx+ J2s+ J4o+ T2s+ T6o+ 93s+ 96o+ 84s+ 86o+ 74s+ 76o 63s+ 65o 53s+ 43s ",
+                "6BB": "74.1%, 22+ Qx+ J2s+ J3o+ T2s+ T6o+ 93s+ 96o+ 84s+ 86o+ 73s+ 76o 63s+ 65o 53s+ 43s ",
+                "5BB": "77.1%, 22+ Jx+ T2s+ T5o+ 92s+ 96o+ 84s+ 86o+ 73s+ 75o+ 63s+ 65o 53s+ 43s ",
+                "4BB": "80.6%, 22+ Jx+ T2s+ T3o+ 92s+ 95o+ 84s+ 85o+ 73s+ 75o+ 63s+ 65o 53s+ 43s ",
+                "3BB": "82.8%, 22+ Tx+ 92s+ 94o+ 82s+ 85o+ 73s+ 75o+ 63s+ 65o 53s+ ",
+                "2BB": "90.3%, 22+ 9x+ 82s+ 83o+ 72s+ 74o+ 62s+ 64o+ 52s+ 54o 43s ",
+                "1BB": "100.0%, Any two"
+            }
+        },
+        "Call": {
+            "BU": {
+                "SB": {
+                    "10BB": "23.4%, 22+ A2s+ A5o+ K9s+ KTo+ QTs+ QJo JTs ",
+                    "9BB": "26.0%, 22+ A2s+ A3o+ K7s+ KTo+ Q9s+ QJo JTs ",
+                    "8BB": "28.8%, 22+ Ax+ K7s+ K9o+ Q9s+ QTo+ JTs ",
+                    "7BB": "31.0%, 22+ Ax+ K5s+ K9o+ Q9s+ QTo+ J9s+ JTo T9s ",
+                    "6BB": "33.0%, 22+ Ax+ K3s+ K8o+ Q8s+ QTo+ J8s+ JTo T9s ",
+                    "5BB": "37.2%, 22+ Ax+ K2s+ K6o+ Q6s+ Q9o+ J8s+ JTo T8s+ 98s 87s ",
+                    "4BB": "43.6%, 22+ Ax+ K2s+ K5o+ Q4s+ Q8o+ J7s+ J9o+ T7s+ T9o 97s+ 86s+ 76s 65s ",
+                    "3BB": "52.3%, 22+ Ax+ K2s+ K3o+ Q2s+ Q7o+ J4s+ J8o+ T6s+ T8o+ 96s+ 98o 85s+ 75s+ 64s+ 54s ",
+                    "2BB": "69.2%, 22+ Kx+ Q2s+ Q4o+ J2s+ J6o+ T2s+ T6o+ 93s+ 96o+ 84s+ 86o+ 74s+ 76o 63s+ 65o 53s+ 43s ",
+                    "1BB": "91.9%, 22+ Tx+ 92s+ 93o+ 82s+ 84o+ 72s+ 74o+ 62s+ 63o+ 52s+ 53o+ 42s+ 43o 32s "
+                },
+                "BB": {
+                    "10BB": "29.4%, 22+ Ax+ K6s+ K9o+ Q9s+ QTo+ J9s+ ",
+                    "9BB": "32.4%, 22+ Ax+ K4s+ K8o+ Q8s+ QTo+ J9s+ JTo T9s ",
+                    "8BB": "34.8%, 22+ Ax+ K3s+ K7o+ Q8s+ Q9o+ J8s+ JTo T9s ",
+                    "7BB": "38.2%, 22+ Ax+ K2s+ K5o+ Q6s+ Q9o+ J8s+ JTo T8s+ 98s ",
+                    "6BB": "45.1%, 22+ Ax+ K2s+ K3o+ Q3s+ Q8o+ J7s+ J9o+ T7s+ T9o 97s+ 87s 76s ",
+                    "5BB": "53.5%, 22+ Kx+ Q2s+ Q6o+ J4s+ J8o+ T6s+ T8o+ 96s+ 98o 86s+ 75s+ 65s 54s ",
+                    "4BB": "68.2%, 22+ Qx+ J2s+ J7o+ T2s+ T7o+ 94s+ 97o+ 84s+ 86o+ 74s+ 76o 63s+ 65o 53s+ 43s ",
+                    "3BB": "89.1%, 22+ Jx+ T2s+ T3o+ 92s+ 95o+ 82s+ 84o+ 72s+ 74o+ 62s+ 63o+ 52s+ 53o+ 42s+ 43o 32s ",
+                    "2BB": "100.0%, Any two",
+                    "1BB": "100.0%, Any two"
+                }
+            },
+            "SB": {
+                "BB": {
+                    "10BB": "45.4%, 22+ Kx+ Q4s+ Q7o+ J7s+ J9o+ T8s+ T9o 98s ",
+                    "9BB": "48.4%, 22+ Kx+ Q2s+ Q6o+ J6s+ J8o+ T7s+ T9o 98s ",
+                    "8BB": "52.0%, 22+ Kx+ Q2s+ Q5o+ J5s+ J7o+ T7s+ T8o+ 97s+ 87s ",
+                    "7BB": "56.0%, 22+ Kx+ Q2s+ Q3o+ J3s+ J7o+ T6s+ T8o+ 96s+ 98o 87s ",
+                    "6BB": "61.1%, 22+ Qx+ J2s+ J5o+ T4s+ T7o+ 96s+ 98o 86s+ 76s ",
+                    "5BB": "67.7%, 22+ Qx+ J2s+ J3o+ T2s+ T6o+ 95s+ 97o+ 85s+ 87o 75s+ 65s 54s ",
+                    "4BB": "77.6%, 22+ Jx+ T2s+ T3o+ 92s+ 95o+ 84s+ 86o+ 74s+ 76o 64s+ 53s+ 43s ",
+                    "3BB": "91.0%, 22+ 9x+ 82s+ 84o+ 72s+ 74o+ 62s+ 64o+ 52s+ 53o+ 42s+ 32s ",
+                    "2BB": "100.0%, Any two",
+                    "1BB": "100.0%, Any two"
+                }
+            }
+        },
+        "OverCall": {
+            "BU":{
+                "SB": {
+                    "BB": {
+                        "10BB": "16.7%, 44+ A7s+ A9o+ K9s+ KJo+ Q9s+ J9s+ T9s 98s ",
+                        "9BB": "20.2%, 33+ A5s+ A9o+ K9s+ KTo+ Q9s+ QJo J9s+ T8s+ 98s 87s ",
+                        "8BB": "24.4%, 33+ A3s+ A8o+ K8s+ KTo+ Q9s+ QTo+ J8s+ JTo T8s+ 98s 87s 76s ",
+                        "7BB": "27.9%, 22+ A2s+ A7o+ K6s+ KTo+ Q8s+ QTo+ J8s+ JTo T8s+ 97s+ 86s+ 76s 65s ",
+                        "6BB": "34.8%, 22+ A2s+ A4o+ K5s+ K9o+ Q6s+ QTo+ J7s+ JTo T7s+ T9o 96s+ 86s+ 75s+ 65s 54s ",
+                        "5BB": "41.3%, 22+ Ax+ K3s+ K8o+ Q5s+ Q9o+ J6s+ J9o+ T6s+ T9o 96s+ 85s+ 75s+ 64s+ 54s ",
+                        "4BB": "54.1%, 22+ Ax+ K2s+ K6o+ Q2s+ Q8o+ J3s+ J8o+ T4s+ T8o+ 95s+ 97o+ 84s+ 87o 74s+ 76o 63s+ 53s+ 43s ",
+                        "3BB": "75.6%, 22+ Kx+ Q2s+ Q4o+ J2s+ J6o+ T2s+ T6o+ 92s+ 96o+ 82s+ 85o+ 72s+ 75o+ 62s+ 64o+ 52s+ 54o 42s+ 32s ",
+                        "2BB": "98.2%, 22+ 9x+ 82s+ 83o+ 72s+ 73o+ 3x+ ",
+                        "1BB": "100.0%, Any two"
+                    }
+                }
+            }
+        }
+    },
+    "2": {
+        "Push": {
+            "SB": {
+                "10BB": "64.6%, 22+ Kx+ Q2s+ Q4o+ J2s+ J7o+ T3s+ T7o+ 95s+ 97o+ 84s+ 86o+ 74s+ 76o 63s+ 53s+ 43s ",
+                "9BB": "67.7%, 22+ Qx+ J2s+ J7o+ T3s+ T7o+ 94s+ 97o+ 84s+ 86o+ 74s+ 76o 63s+ 65o 53s+ 43s ",
+                "8BB": "69.3%, 22+ Qx+ J2s+ J5o+ T2s+ T7o+ 94s+ 97o+ 84s+ 86o+ 74s+ 76o 63s+ 65o 53s+ 43s ",
+                "7BB": "72.1%, 22+ Qx+ J2s+ J4o+ T2s+ T6o+ 94s+ 96o+ 84s+ 86o+ 74s+ 76o 63s+ 65o 53s+ 43s ",
+                "6BB": "74.3%, 22+ Jx+ T2s+ T6o+ 93s+ 96o+ 84s+ 86o+ 74s+ 76o 63s+ 65o 53s+ 43s ",
+                "5BB": "75.9%, 22+ Jx+ T2s+ T4o+ 92s+ 96o+ 84s+ 86o+ 74s+ 76o 63s+ 53s+ 43s ",
+                "4BB": "79.8%, 22+ Tx+ 92s+ 95o+ 84s+ 85o+ 74s+ 75o+ 64s+ 53s+ ",
+                "3BB": "86.7%, 22+ 9x+ 82s+ 84o+ 73s+ 74o+ 63s+ 65o 53s+ 43s ",
+                "2BB": "99.1%, 22+ 4x+ 32s ",
+                "1BB": "100.0%, Any two"
+            }
+        },
+        "Call": {
+            "SB": {
+                "BB": {
+                    "10BB": "42.1%, 22+ Ax+ K2s+ K3o+ Q5s+ Q8o+ J7s+ J9o+ T8s+ ",
+                    "9BB": "45.5%, 22+ Kx+ Q4s+ Q7o+ J7s+ J9o+ T8s+ T9o 98s ",
+                    "8BB": "48.4%, 22+ Kx+ Q2s+ Q6o+ J6s+ J8o+ T7s+ T9o 98s ",
+                    "7BB": "53.0%, 22+ Kx+ Q2s+ Q4o+ J5s+ J7o+ T6s+ T8o+ 97s+ 87s ",
+                    "6BB": "58.5%, 22+ Qx+ J2s+ J7o+ T6s+ T7o+ 96s+ 98o 86s+ ",
+                    "5BB": "64.9%, 22+ Qx+ J2s+ J4o+ T3s+ T7o+ 95s+ 97o+ 85s+ 87o 75s+ 65s ",
+                    "4BB": "73.8%, 22+ Jx+ T2s+ T5o+ 93s+ 96o+ 84s+ 86o+ 74s+ 76o 64s+ 54s ",
+                    "3BB": "88.2%, 22+ Tx+ 92s+ 93o+ 82s+ 84o+ 72s+ 75o+ 62s+ 64o+ 52s+ 54o 42s+ 32s ",
+                    "2BB": "100.0%, Any two",
+                    "1BB": "100.0%, Any two"
+                }
+            }
+        }
+    }
+}
+
+
+
+
